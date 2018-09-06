@@ -1,0 +1,9 @@
+{
+    "applinks": {
+    "apps": [],
+    "details": [{
+        "appID": "C92M3ZV55X.ru.aviasales.events",
+        "paths": ["*", "/"]
+    }]
+  }
+}
